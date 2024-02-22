@@ -1,0 +1,3 @@
+Hello Guys
+this file cantains the string functions
+to lean every function...
